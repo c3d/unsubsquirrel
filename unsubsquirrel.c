@@ -69,7 +69,8 @@ int main(int argc, const char **argv)
             "Have you considered cross-posting this to world-list@gmail.com?",
             "Access denied: Problem between keyboard and chair (E_PBKAC)",
             "What about a cup of tea?",
-            "You are probably not remote enough"
+            "You are probably not remote enough",
+            "Error ID:10T - Please try again"
         };
         struct timeval tv;
         gettimeofday(&tv, NULL);
