@@ -68,6 +68,7 @@ int main(int argc, const char **argv)
             "Please be considerate and do post this to another list",
             "Have you considered cross-posting this to world-list@gmail.com?",
             "Access denied: Problem between keyboard and chair (E_PBKAC)",
+            "Fwd: Blog post: 7 tips for remote-work sanity",
             "What about a cup of tea?",
             "You are probably not remote enough"
         };
