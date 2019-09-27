@@ -62,9 +62,9 @@ int main(int argc, const char **argv)
         static const char *default_messages[] =
         {
             "Netiquette is apparently a hard nut to crack",
-            "Unsubscribe you? You can't be serious!",
+            "Unsubscribe you? Are you nuts?",
             "Nack",
-            "We are sorry to not see you leave",
+            "We are sorry to nut see you leave",
             "Please be considerate and do post this to another list",
             "Have you considered cross-posting this to world-list@gmail.com?",
             "Access denied: Problem between keyboard and chair (E_PBKAC)",
